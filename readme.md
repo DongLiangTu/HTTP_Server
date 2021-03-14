@@ -1,5 +1,5 @@
 # HTTP_Server
-HTTP Server for static HTML(in resources/index.html)
+HTTP Server for static HTML(in resources/index.html)  
 Reactor model: The main thread responds to the request connection using EPOLL to know the fd changing, and the thread pool responds to the requests(read,write) to connection.
 ### Http_server Usage:
 `http_server 10000(port)`    
