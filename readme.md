@@ -9,7 +9,7 @@ Reactor model: The main thread responds to the request connection using EPOLL to
 `./webbench -c  10000(Number of links)  -t 5(second)  http://169.254.205.163:port/index.html(URL)` 
 
 ### update
-**March 4th** implemented resolution of the request header (GET method, host and port numbers, connection mode)   
+**March 4th:** implemented resolution of the request header (GET method, host and port numbers, connection mode)   
 
 ### Project expansion direction  
 i.Clearing links without use for a long time    
