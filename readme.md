@@ -12,6 +12,6 @@ Reactor model: The main thread responds to the request connection using EPOLL to
 **March 4th** implemented resolution of the request header (GET method, host and port numbers, connection mode)   
 
 ### Project expansion direction  
-`*`Clearing links without use for a long time    
-`*`User registration and authentication:Upload used POST method  
-`*`...  
+i.Clearing links without use for a long time    
+ii.User registration and authentication:Upload used POST method  
+iii....  
