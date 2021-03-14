@@ -1,7 +1,7 @@
 # HTTP_Server
-HTTP Server
+HTTP Server for static HTML
 ### Http_server Usage:
-http_server port
+http_server 10000(port)
 ### Webbench test
 cd test_presure/webbench-1.5  
 make  
